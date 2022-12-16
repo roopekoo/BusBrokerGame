@@ -1,0 +1,9 @@
+*.pro.user
+*build*
+Make*
+.qmake*
+*debug
+ui_*
+*.o
+moc_*
+*NYSSE*
